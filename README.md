@@ -1,5 +1,5 @@
 # git-101
-# Kişisel Bilgilerim
+# Kisisel Bilgilerim
 <ul> 
  
   <li><strong>isim : </strong> Mustafa Khalil</li>
@@ -7,7 +7,7 @@
   <li><strong>Uyuruklu : </strong> Suriye </li>
 </ul> 
 
-# Eğitim Bilgilerim
+# Egitim Bilgilerim
 <ul> 
  
   <li><strong>Universite : </strong> Anadolu Universite</li>
