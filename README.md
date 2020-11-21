@@ -22,6 +22,7 @@
  
   <li><strong>Tel. : </strong>  0 536 - 50 800 60</li>
   <li><strong>e-posta : </strong> mostafa.khlil1994@gmail.com </li>
+  li><strong>Facebook Hesabi : </strong><link href="https://www.facebook.com/mustafa.khalil.3386/"></li>
   <li><strong>Adres: </strong> Gaziantep - Sahinbey - Guneykent  </li>
 </ul>
 
