@@ -14,6 +14,7 @@
   <li><strong>Bolum : </strong> Yonetim Bilisim Sistemleri </li>
   <li><strong>Sinif : </strong> 2 </li>
 </ul>
+
 # Iletisim Bilgilerim
 <ul> 
  
