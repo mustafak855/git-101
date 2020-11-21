@@ -1,8 +1,8 @@
 # git-101
 <br>***Benim Profilim***
-<ul style="font-weight: bold;"> 
+<ul> 
   <li></li>
-  <li>Tea</li>
+  <li><strong>test</strong></li>
   <li>Milk</li>
 </ul>  
 <br>Gaziantepte Yasiyorum
