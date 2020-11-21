@@ -1,4 +1,5 @@
 # git-101
+
 # Kisisel Bilgilerim
 <ul> 
  
@@ -20,5 +21,15 @@
  
   <li><strong>Tel. : </strong>  0 536 - 50 800 60</li>
   <li><strong>e-posta : </strong> mostafa.khlil1994@gmail.com </li>
-  <li><strong>Adres: </strong> Gaziantep - Sahinbey - Guneykent ✅ </li>
+  <li><strong>Adres: </strong> Gaziantep - Sahinbey - Guneykent  </li>
+</ul>
+
+# Hobilerim
+
+<ul> 
+ 
+  <li>Kod Yazmayi 💻 </li>
+  <li>Futbol ⚽ </li>
+  <li>Yuzmeyi 🏊 </li>
+  <li>Kitap Okumayi 📖</li>
 </ul>
