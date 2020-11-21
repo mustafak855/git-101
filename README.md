@@ -2,7 +2,7 @@
 <br>***Benim Profilim***
 <ul> 
   <li></li>
-  <li><strong>test</strong></li>
+  <li><strong>isim : </strong> Mustafa Khalil</li>
   <li>Milk</li>
 </ul>  
 <br>Gaziantepte Yasiyorum
