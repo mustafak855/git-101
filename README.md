@@ -1,5 +1,5 @@
 # git-101
-Mustafa Khalil
-26
-Inglizce,Turcke,Arapca
-YBS
+<br>Mustafa Khalil
+<br>26
+<br>Inglizce,Turcke,Arapca
+<br>YBS
