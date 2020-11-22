@@ -30,8 +30,8 @@
 
 <ul> 
  
-  <li>Kod Yazmayi 💻 </li>
+  <li>Kod Yazmak 💻 </li>
   <li>Futbol ⚽ </li>
   <li>Yuzmeyi 🏊 </li>
-  <li>Kitap Okumayi 📖</li>
+  <li>Kitap Okumak 📖</li>
 </ul>
