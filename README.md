@@ -5,8 +5,7 @@
  
   <li><strong>isim : </strong> Mustafa Khalil</li>
   <li><strong>Yas : </strong> 26 </li>
-  <li><strong>Baba adi : </strong> Mohammed </li>
-    <li><strong>Anne adi : </strong> Fatima </li>
+
 </ul> 
 
 # Egitim Bilgilerim
