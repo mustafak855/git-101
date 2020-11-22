@@ -20,7 +20,7 @@
 # Iletisim Bilgilerim
 <ul> 
  
-  <li><strong>Tel. 📱 : </strong> 0 536 - 50 800 60</li>
+
   <li><strong>e-posta ✉️ : </strong><a href="mailto:mostafa.khlil1994@gmail.com ">mostafa.khlil1994@gmail.com </a></li>
   <li><strong>Facebook Hesabi 	🔗 :</strong> <a href=""https://www.facebook.com/mustafa.khalil.3386">mustafa.khalil.3386</a></li>
   <li><strong>Adres  🏠 : </strong> Gaziantep - Sahinbey - Guneykent  </li>
